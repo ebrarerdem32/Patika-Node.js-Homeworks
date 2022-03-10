@@ -5,7 +5,7 @@ const circleArea = (r) => {
 }
 
 const circleCircumference = ( r) => {
-     console.log("The circleCircumference is:", 2 * pi * r)
+     console.log("The circle circumference is:", 2 * pi * r)
 }
 
 module.exports={
